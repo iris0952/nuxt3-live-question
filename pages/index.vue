@@ -18,9 +18,12 @@
 </template>
 
 <style lang="scss">
-$primary: #426bb8;
+
 h1{
   color: $primary;
+}
+h3{
+  color: $indigo;
 }
 button.btn{
   cursor: pointer;
